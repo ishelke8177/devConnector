@@ -1,2 +1,2 @@
-tech stack - react, redux, node, mongo, express. \
+tech stack - react, redux, node, mongo, express
 
